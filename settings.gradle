@@ -1,0 +1,2 @@
+rootProject.name = "WEBINAR.listView"
+include ':app'
